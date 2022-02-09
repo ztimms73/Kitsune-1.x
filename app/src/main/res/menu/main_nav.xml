@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_shelf"
+        android:title="Shelf"
+        android:icon="@drawable/ic_shelf" />
+
+    <item
+        android:id="@+id/nav_explore"
+        android:title="Explore"
+        android:icon="@drawable/ic_explore" />
+
+    <item
+        android:id="@+id/nav_bookmarks"
+        android:title="Bookmarks"
+        android:icon="@drawable/ic_bookmarks" />
+
+    <item
+        android:id="@+id/nav_updates"
+        android:title="Updates"
+        android:icon="@drawable/ic_updates" />
+
+</menu>
